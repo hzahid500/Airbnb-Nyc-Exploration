@@ -1,4 +1,4 @@
-# New York City AirBNB Python EDA
+# New York City Airbnb Python EDA
 This file contains Exploratory Data Analysis (EDA) on New York City Airbnb dataset.
 Some of the analysis I did on this dataset was answering questions like:
   
